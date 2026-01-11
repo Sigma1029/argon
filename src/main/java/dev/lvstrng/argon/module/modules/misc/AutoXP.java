@@ -23,7 +23,7 @@ public final class AutoXP extends Module implements TickListener, ItemUseListene
 	int clock;
 
 	public AutoXP() {
-		super(EncryptedString.of("Auto XP"),
+		super(EncryptedString.of("fast xp"),
 				EncryptedString.of("Automatically throws XP bottles for you"),
 				-1,
 				Category.MISC);
