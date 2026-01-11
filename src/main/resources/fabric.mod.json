@@ -11,7 +11,7 @@
     "main": [
       "dev.lvstrng.argon.Main"
     ]
-  },
+  
   "mixins": [
     "client.mixins.json"
   ],
